@@ -1,0 +1,11 @@
+#Image {
+    border: 5px solid blue;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.Fx {
+    margin-top: 5px;
+    padding-top: 2rem;
+    text-align: center;
+}

@@ -1,0 +1,19 @@
+.head {
+    display: flex;
+    align-content: space-between;
+    justify-content: space-between;
+    background-color: green;
+    color: white;
+}
+
+#List ul {
+    display: flex;
+    list-style: none;
+    align-content: space-between;
+    justify-content: space-between;
+}
+
+.head ul li {
+    margin-left: 2em;
+    margin-right: 1em;
+}

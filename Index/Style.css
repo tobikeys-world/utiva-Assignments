@@ -1,0 +1,53 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: red;
+    font-size: 2rem;
+}
+
+.Part1 {
+    border: 5px solid blue;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+
+}
+
+#Part2 img {
+    width: 100;
+    margin: 0 auto;
+    display: block;
+}
+
+#Part2 p {
+    text-align: center;
+    padding: 2rem;
+    margin-bottom: 20px;
+}
+
+#Video {
+    display: block;
+    margin: 30px auto;
+    width: 60%;
+    max-width: 500px;
+    text-align: center;
+}
+
+.List {
+    border: 4px solid green;
+    text-align: center;
+}
+
+.List ul {
+    list-style: none;
+}
+
+.List ol {
+    list-style: none;
+
+}
