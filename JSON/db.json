@@ -1,0 +1,25 @@
+{
+    "Staff": [
+        {
+            "id": 1,
+            "Fullname": "Afolabi Tosin",
+            "Age": 42,
+            "Grade level": 17,
+            "Salary": "#450000"
+        },
+        {
+            "id": 2,
+            "Fullname": "Akilabi Femi",
+            "Age": 32,
+            "Grade level": 15,
+            "Salary": "#250000"
+        },
+        {
+            "id": 3,
+            "Fullname": "Eze Queen",
+            "Age": 30,
+            "Grade level": 13,
+            "Salary": "#45000"
+        }
+    ]
+}
